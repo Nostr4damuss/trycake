@@ -1,0 +1,15 @@
+C:\Users\Comp\source\repos\trycake\trycake\bin\Debug\net6.0\trycake.exe
+C:\Users\Comp\source\repos\trycake\trycake\bin\Debug\net6.0\trycake.deps.json
+C:\Users\Comp\source\repos\trycake\trycake\bin\Debug\net6.0\trycake.runtimeconfig.json
+C:\Users\Comp\source\repos\trycake\trycake\bin\Debug\net6.0\trycake.dll
+C:\Users\Comp\source\repos\trycake\trycake\bin\Debug\net6.0\trycake.pdb
+C:\Users\Comp\source\repos\trycake\trycake\obj\Debug\net6.0\trycake.csproj.AssemblyReference.cache
+C:\Users\Comp\source\repos\trycake\trycake\obj\Debug\net6.0\trycake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Comp\source\repos\trycake\trycake\obj\Debug\net6.0\trycake.AssemblyInfoInputs.cache
+C:\Users\Comp\source\repos\trycake\trycake\obj\Debug\net6.0\trycake.AssemblyInfo.cs
+C:\Users\Comp\source\repos\trycake\trycake\obj\Debug\net6.0\trycake.csproj.CoreCompileInputs.cache
+C:\Users\Comp\source\repos\trycake\trycake\obj\Debug\net6.0\trycake.dll
+C:\Users\Comp\source\repos\trycake\trycake\obj\Debug\net6.0\refint\trycake.dll
+C:\Users\Comp\source\repos\trycake\trycake\obj\Debug\net6.0\trycake.pdb
+C:\Users\Comp\source\repos\trycake\trycake\obj\Debug\net6.0\trycake.genruntimeconfig.cache
+C:\Users\Comp\source\repos\trycake\trycake\obj\Debug\net6.0\ref\trycake.dll
